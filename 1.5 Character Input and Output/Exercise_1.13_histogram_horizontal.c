@@ -3,7 +3,7 @@ Horizontal Version.*/
 
 #include <stdio.h>
 #define IN 1
-#define OUT 2
+#define OUT 0
 #define MAXLEN 30	/* Define the number of maximum words we are considering */
 
 int main (void)
